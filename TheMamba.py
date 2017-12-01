@@ -1,3 +1,7 @@
+"""
+File: TheMamba.py
+Author: Anmol Chugh
+"""
 import sys
 import pygame
 from time import time, sleep
